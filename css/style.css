@@ -1,11 +1,6 @@
 .title {
-    background-color: aqua;
     align-content: center;
     text-align: center;
-}
-
-.subtitle {
-    background-color: bisque;
 }
 
 p {
@@ -24,12 +19,10 @@ footer {
 @media (max-width: 576px) {
     .title {
         font-size: 25px;
-        background-color: aquamarine;
     }
 
     .subtitle {
         font-size: 20px;
-        background-color: aqua;
     }
 
     p {
@@ -48,12 +41,10 @@ footer {
 @media (min-width: 577px) {
     .title {
         font-size: 25px;
-        background-color: rgb(80, 41, 178);
     }
 
     .subtitle {
         font-size: 20px;
-        background-color: aqua;
     }
 
     p {
@@ -72,12 +63,10 @@ footer {
 @media (min-width: 768px) {
     .title {
         font-size: 31px;
-        background-color: rgb(54, 116, 95);
     }
 
     .subtitle {
         font-size: 26px;
-        background-color: aqua;
     }
 
     p {
@@ -96,12 +85,10 @@ footer {
 @media (min-width: 992px) {
     .title {
         font-size: 35px;
-        background-color: rgb(41, 61, 55);
     }
 
     .subtitle {
         font-size: 30px;
-        background-color: aqua;
     }
 
     p {
@@ -120,12 +107,10 @@ footer {
 @media (min-width: 1200px) {
     .title {
         font-size: 35px;
-        background-color: rgb(36, 140, 38);
     }
 
     .subtitle {
         font-size: 30px;
-        background-color: aqua;
     }
 
     p {
@@ -149,7 +134,6 @@ footer {
 
     .subtitle {
         font-size: 30px;
-        background-color: aqua;
     }
 
     p {
@@ -163,4 +147,5 @@ footer {
     .ul{
         font-size: 20px;
     }
+
 }
